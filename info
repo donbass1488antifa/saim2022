@@ -1,0 +1,8 @@
+{
+ "version": 1.0,
+ "text": "test\nsecond line",
+ "links": {
+  { "caption": "repo", "url": "https://github.com/donbass1488antifa/saim2022" },
+  { "caption": "Google", "url": "https://google.com" }
+ }
+}
